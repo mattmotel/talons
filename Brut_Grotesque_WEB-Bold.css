@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Brut_Grotesque_WEB-Bold';
+    src:    url('Brut_Grotesque_WEB-Bold.eot');
+    src:    url('Brut_Grotesque_WEB-Bold.eot?#iefix') format('embedded-opentype'),
+            url('Brut_Grotesque_WEB-Bold.woff') format('woff'),
+            url('Brut_Grotesque_WEB-Bold.woff2') format('woff2');
+}
